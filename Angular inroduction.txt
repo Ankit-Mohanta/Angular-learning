@@ -1,0 +1,19 @@
+Angular is maintained by a dedicated team at google and it provides tools and APIs with comprehensive libraries to simplify the development workflow.
+
+Features of Angular:
+1. Keep our codebase organized with an opinionated component model and flexible dependency injection system
+  . Angular components make it easy to split your code into well-encapsulated parts.
+  . The versatile dependency injection helps you keep your code modular, loosely-coupled, and testable
+
+2. Get fast state updates with fine-grained reactivity based on signals
+  . Optimized compile time
+  . Virtual DOM update
+
+3. Meet your performance targets with SSR, SSG, hydration and next-generation deferred loading
+  . Supports both Server side rendering(SSR) and Static side generation(SSG)
+  . Full DOM hydration
+  . @defer blocks in templates make it simple to declaratively divide your templates into lazy loadable parts
+
+4. Angular's first-party modules for forms, routing and more
+  . Angular's in build routing process
+  . Angular's in build form modules to get the data from client
